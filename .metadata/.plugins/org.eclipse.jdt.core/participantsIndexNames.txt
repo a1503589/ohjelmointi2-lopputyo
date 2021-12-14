@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\temp\veneet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3425745151.index
+\autot\src\main\java
+C:\Users\User\eclipse-workspace\ohjelmointi2\viikko4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3425745151.index
+\autot\src\main\java
+C:\Users\User\eclipse-workspace\ohjelmointi2\viikko4 _native\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3425745151.index
+\autot\src\main\java
+C:\Users\User\eclipse-workspace\ohjelmointi2\viikko4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1030175995.index
+\autot\src\main\java

@@ -1,0 +1,13 @@
+package model;
+
+public class Vene {
+	private int tunnus, hinta;
+	private String nimi, merkkimalli;
+	private double pituus, leveys;
+	public Vene() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	}
+
+

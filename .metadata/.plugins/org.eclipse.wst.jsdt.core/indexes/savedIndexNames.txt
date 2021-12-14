@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\temp\veneet\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3569903037.index
+3129985532.index
+666709991.index
+3425745151.index
+443947570.index
+3425745151.index
+415317016.index
+2128002760.index
